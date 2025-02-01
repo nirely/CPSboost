@@ -60,8 +60,6 @@ This project was developed using **Visual Studio 2022** with the latest version 
 3. Navigate to the top menu and select **Build > Build Solution** to compile the project.
 4. Once compiled, the executable will be located in the output directory.
 
-For advanced users, ensure that all dependencies are correctly linked, and the build environment is properly configured to match the project requirements.
-
 ---
 
 ```
