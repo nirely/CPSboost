@@ -49,6 +49,9 @@ keybind=M
 
 ---
 
+## Dependencies 
+ - needs [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) installed to run properly.
+
 ## Manual Compilation
 
 If you wish to compile the program manually, here’s what you need to know:
