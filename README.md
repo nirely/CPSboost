@@ -53,11 +53,6 @@ keybind=M
  - needs [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) installed to run properly.
 
 ## Manual Compilation
-
-If you wish to compile the program manually, here’s what you need to know:
-
-This project was developed using **Visual Studio 2022** with the latest version of **C++**. The encoding used is **Multi-Byte Character Set (MBCS)**. To compile the program, follow these steps:
-
 1. Open the project in Visual Studio.
 2. Ensure that the project settings are configured to use Multi-Byte Character Encoding.
 3. Navigate to the top menu and select **Build > Build Solution** to compile the project.
