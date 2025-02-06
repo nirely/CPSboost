@@ -66,5 +66,5 @@ This project was developed using **Visual Studio 2022** with the latest version 
 ---
 
 ```
-Thank you for your attention!
+end.
 ```
